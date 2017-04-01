@@ -18,6 +18,7 @@ this tool at `tput setaf 3;`YOUR OWN RISK`tput setaf 2;`, and if you point your 
 `tput setaf 3;`I WILL SIT BACK, DRINK REDBULL AND LAUGH AT YOU`tput setaf 7;`!!\n"
 
 	echo -e "Are you sure you want to use this tool?"
+	echo -e "Author: 'Paranoid Ninja'"
 	read -e -p ">>> (y/n) " -n2 accept; echo ""
 
 	if [[ $accept == 'y' ]]; then
