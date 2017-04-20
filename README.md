@@ -8,8 +8,8 @@ Thought it may work in usual linux distros, it is not specifically designed for 
 Install all dependencies
 ---------------------------------------------------------------------------------------------------
 ```
-wget http://ftp.us.debian.org/debian/pool/main/c/capstone/libcapstone-dev_3.0.4-0.2_armhf.deb
-wget http://ftp.us.debian.org/debian/pool/main/c/capstone/libcapstone3_3.0.4-0.2_armhf.deb
+wget http://ftp.us.debian.org/debian/pool/main/c/capstone/libcapstone-dev_3.0.4-1_armhf.deb
+wget http://ftp.us.debian.org/debian/pool/main/c/capstone/libcapstone3_3.0.4-1_armhf.deb
 dpkg -i *
 wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
