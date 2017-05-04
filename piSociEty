@@ -1,5 +1,8 @@
 #!/bin/bash
 
+##Author : Paranoid Ninja
+##Email : paranoidninja@protonmail.com
+
 #This script requires root to run
 #uid checks for root access
 #Rogue_AP is the hotspot
